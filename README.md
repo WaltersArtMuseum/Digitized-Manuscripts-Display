@@ -1,4 +1,4 @@
-digital-walters-display
+Digitized Manuscripts Display
 =======================
 
-an interface to display manuscripts data from thedigitalwalters.org
+A simple interface to display manuscripts data from thedigitalwalters.org
